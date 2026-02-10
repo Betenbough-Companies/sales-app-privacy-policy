@@ -10,9 +10,9 @@ This application is intended **solely for internal use** by employees of **Beten
 
 ## Data Collection & Privacy
 
-- ✓ The app **does not collect** personal user data
-- ✓ The app **does not store** personal user data  
-- ✓ The app **does not share** personal user data
+- The app **does not collect** personal user data
+- The app **does not store** personal user data  
+- The app **does not share** personal user data
 
 ---
 
