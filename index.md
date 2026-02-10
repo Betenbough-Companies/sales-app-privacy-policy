@@ -1,6 +1,4 @@
-# Internal Use Only Privacy Policy
-
----
+# Betenbough Sales App Internal Use Only Privacy Policy
 
 ## Overview
 

@@ -1,3 +1,5 @@
 title: Betenbough Homes - Sales App Privacy Policy
 description: Internal use privacy policy for Betenbough Homes sales application
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
